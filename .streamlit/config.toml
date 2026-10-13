@@ -1,0 +1,24 @@
+[server]
+address = "localhost"
+maxUploadSize = 5
+
+[theme.light]
+primaryColor = "#374151"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#111827"
+borderColor = "#9CA3AF"
+dataframeBorderColor = "#9CA3AF"
+showWidgetBorder = true
+
+[theme.dark]
+primaryColor = "#6B7280"
+backgroundColor = "#111827"
+secondaryBackgroundColor = "#1F2937"
+textColor = "#F3F4F6"
+borderColor = "#6B7280"
+dataframeBorderColor = "#6B7280"
+showWidgetBorder = true
+
+[browser]
+gatherUsageStats = false
